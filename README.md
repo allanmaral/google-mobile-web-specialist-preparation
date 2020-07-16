@@ -8,86 +8,86 @@ This is a list of useful contents to be used while studying to [Mobile Web Speci
 
 Build a web app’s responsive layout and style appropriate to the user’s device using only HTML, CSS, and JavaScript without the overhead of libraries or frameworks (such as jQuery).
 
-*  1.1 Responsive Design
-    * [Responsive Design](https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0) | 
+- 1.1 Responsive Design
+  - [Responsive Design](https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0) |
     [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive)
 
-*  1.2 Media
-    * [Responsive Images](https://codelabs.developers.google.com/codelabs/pwa-responsive-images/index.html?index=..%2F..dev-pwa-training#0) |
+- 1.2 Media
+  - [Responsive Images](https://codelabs.developers.google.com/codelabs/pwa-responsive-images/index.html?index=..%2F..dev-pwa-training#0) |
     [Video](https://developers.google.com/web/fundamentals/media/video)
 
-*  1.3 User Input
-    * [Add Touch to Your Site](https://developers.google.com/web/fundamentals/design-and-ux/input/touch)
-    
+- 1.3 User Input
+  - [Add Touch to Your Site](https://developers.google.com/web/fundamentals/design-and-ux/input/touch)
+
 ### 2. Front-end networking
 
 Use JavaScript to set up reliable front-end networking protocols with appropriate error handling.
 
-*  2.1 [Fetch API](https://codelabs.developers.google.com/codelabs/pwa-fetch/index.html?index=..%2F..dev-pwa-training#0)
+- 2.1 [Fetch API](https://codelabs.developers.google.com/codelabs/pwa-fetch/index.html?index=..%2F..dev-pwa-training#0)
 
 ### 3. Accessibility
 
 Use accessibility best practices to make web apps accessible to all users, including those with visual, motor, hearing, and cognitive impairments.
 
-* 3.1 Focus
-   * [Introduction to Focus](https://developers.google.com/web/fundamentals/accessibility/focus)
+- 3.1 Focus
+  - [Introduction to Focus](https://developers.google.com/web/fundamentals/accessibility/focus)
 
-* 3.2 Semantics
-   * [Introduction to Semantics](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin)
-   * [The Accessibility Tree](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree)
-   * [Text Alternatives for Images](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/text-alternatives-for-images)
+- 3.2 Semantics
+  - [Introduction to Semantics](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin)
+  - [The Accessibility Tree](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree)
+  - [Text Alternatives for Images](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/text-alternatives-for-images)
 
-* 3.3 Semantics and ARIA
-   * [Aria Labels and Relationships](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships)
-   * [Hiding and Updating Content](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/hiding-and-updating-content)
+- 3.3 Semantics and ARIA
+  - [Aria Labels and Relationships](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships)
+  - [Hiding and Updating Content](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/hiding-and-updating-content)
 
-* 3.4 Styles
-   * [Accessible Styles](https://developers.google.com/web/fundamentals/accessibility/accessible-styles)
-   
+- 3.4 Styles
+  - [Accessible Styles](https://developers.google.com/web/fundamentals/accessibility/accessible-styles)
+
 ### 4. Progressive Web Apps
 
 Create web apps that are available offline and provide a consistent, native-app-like experience.
 
-* 4.1 Service Workers
-   * [Scripting the service worker](https://codelabs.developers.google.com/codelabs/pwa-scripting-the-service-worker/index.html?index=..%2F..dev-pwa-training#0)
-   * [Caching files with the service worker](https://codelabs.developers.google.com/codelabs/pwa-caching-service-worker/index.html?index=..%2F..dev-pwa-training#0)
+- 4.1 Service Workers
+  - [Scripting the service worker](https://codelabs.developers.google.com/codelabs/pwa-scripting-the-service-worker/index.html?index=..%2F..dev-pwa-training#0)
+  - [Caching files with the service worker](https://codelabs.developers.google.com/codelabs/pwa-caching-service-worker/index.html?index=..%2F..dev-pwa-training#0)
 
-* 4.2 Offline
-   * [Offline quickstart](https://codelabs.developers.google.com/codelabs/pwa-offline-quickstart/index.html?index=..%2F..dev-pwa-training#0)
-   * [Adding a Service Worker and Offline into your Web App](https://codelabs.developers.google.com/codelabs/offline/index.html?index=..%2F..%2Findex#0)
+- 4.2 Offline
+  - [Offline quickstart](https://codelabs.developers.google.com/codelabs/pwa-offline-quickstart/index.html?index=..%2F..dev-pwa-training#0)
+  - [Adding a Service Worker and Offline into your Web App](https://codelabs.developers.google.com/codelabs/offline/index.html?index=..%2F..%2Findex#0)
 
-* 4.3 App Shell
-   * [The App Shell Model](https://developers.google.com/web/fundamentals/architecture/app-shell)
+- 4.3 App Shell
+  - [The App Shell Model](https://developers.google.com/web/fundamentals/architecture/app-shell)
 
 ### 5. Performance optimization and caching
 
 Audit an app's performance to reduce page load times and maintain responsive user experiences.
 
-* 5.1 Fundamentals
-   * [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
-   * [Resource Prioritization](https://developers.google.com/web/fundamentals/performance/resource-prioritization)
+- 5.1 Fundamentals
+  - [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
+  - [Resource Prioritization](https://developers.google.com/web/fundamentals/performance/resource-prioritization)
 
-* 5.2 Network Performance
-   * [Get Started with Analyzing Network Performance in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/network-performance)
-   * [Critical Request Chains](https://developers.google.com/web/tools/lighthouse/audits/critical-request-chains)
-   
-* 5.3 Web Workers
-   * [Web Workers](https://www.youtube.com/watch?v=X57mh8tKkgE)
-   
-* 5.4 IndexDB
-   * [IndexedDB API](https://codelabs.developers.google.com/codelabs/pwa-indexed-db/index.html?index=..%2F..dev-pwa-training#0)
+- 5.2 Network Performance
+  - [Get Started with Analyzing Network Performance in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/network-performance)
+  - [Critical Request Chains](https://developers.google.com/web/tools/lighthouse/audits/critical-request-chains)
+
+- 5.3 Web Workers
+  - [Web Workers](https://www.youtube.com/watch?v=X57mh8tKkgE)
+
+- 5.4 IndexDB
+  - [IndexedDB API](https://codelabs.developers.google.com/codelabs/pwa-indexed-db/index.html?index=..%2F..dev-pwa-training#0)
 
 ### 6. Testing and debugging
 
 Write unit tests that verify expected behaviors and diagnose common web-app problems.
 
-* 6.1 Web Tools
-   * [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)
-   * [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript)
-   * [Diagnose and Log to Console](https://developers.google.com/web/tools/chrome-devtools/console/console-write)
-   
-* 6.2 Service Workers
-   * [Debugging Service Workers](https://developers.google.com/web/fundamentals/codelabs/debugging-service-workers)
+- 6.1 Web Tools
+  - [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)
+  - [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript)
+  - [Diagnose and Log to Console](https://developers.google.com/web/tools/chrome-devtools/console/console-write)
+
+- 6.2 Service Workers
+  - [Debugging Service Workers](https://developers.google.com/web/fundamentals/codelabs/debugging-service-workers)
 
 ### 7. ES2015 concepts and syntax
 

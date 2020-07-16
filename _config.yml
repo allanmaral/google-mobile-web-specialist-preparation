@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+  - topics/basic-website-layout.md
+  - topics/front-end-networking.md
+  - topics/accessibility.md
