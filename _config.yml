@@ -8,3 +8,4 @@ include:
   - topics/basic-website-layout.md
   - topics/front-end-networking.md
   - topics/accessibility.md
+theme: jekyll-theme-slate
